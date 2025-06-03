@@ -29,7 +29,7 @@
 
 1. **Клонируйте репозиторий**
     ```bash
-    git clone https://git@github.com:Farukh90/e-mart.git
+    git clone git@github.com:sveta-lalayan/smart.git
     cd e-mart
     ```
 
