@@ -30,7 +30,6 @@
 1. **Клонируйте репозиторий**
     ```bash
     git clone git@github.com:sveta-lalayan/smart.git
-    cd e-mart
     ```
 
 2. **Создайте и активируйте виртуальное окружение**
